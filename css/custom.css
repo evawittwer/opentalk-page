@@ -1,0 +1,122 @@
+p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+header h1.f1 {
+  font-family: 'avenir next', avenir, sans-serif;
+
+}
+
+section h1 {
+  font-family: 'avenir next', avenir, sans-serif;
+  font-weight: bold;
+  font-size: inherit;
+  margin-top: 2em;
+}
+
+.siteheader {
+  background: #ff007f;
+}
+
+.light-silver {
+  color: rgba(255, 255, 255, .9)
+}
+
+blockquote {
+  margin-right: 0
+}
+
+/*header time {
+  display: none !important;
+}
+*/
+.bg-pink {
+  background: #ff007f;
+}
+
+.evaquote {
+  color: #ff007f;
+  font-family: 'avenir next', avenir, sans-serif;
+  clear: both;
+}
+
+.pullquote {
+  float: left;
+  width: 300px;
+  margin: .2em .5em;
+  padding: -30px;
+  padding: 1em;
+  background: lightgrey;
+  position: relative;
+  font-family: 'avenir next', avenir, sans-serif;
+}
+
+.pullquote .border {
+  border: 30px solid transparent;
+  border-image: url("/img/quote.png") 46 repeat;
+}
+
+.pullquote p {
+  hyphens: none;
+  text-align: left;
+  margin: 0;
+}
+
+.pullquoteX p:before, .pullquote p:after {
+  color: #ff007f;
+  margin: 0 .2em
+  font-weight: 1000;
+}
+
+.pullquoteX p:before {
+  content: '«';
+}
+
+.pullquoteX p:after {
+  content: '»';
+}
+
+.pullquote.right {
+  float: right;
+  margin: 10px 0px 10px 20px;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  left: -1em;
+  padding: 0.5em 1em;
+  min-width: 300px;
+  background: #aaa;
+  color: white;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown li {
+  margin: .5em auto;
+}
+
+.tags {
+    font-family: 'avenir next', avenir, sans-serif;
+}
+
+.tags li {
+  display: inline;
+}
+
+.tags a::before {
+  content: "#"
+}
+
+.tags a {
+  border: none;
+  color: #ff007f;
+}
