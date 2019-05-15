@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instagram on Open Talk</title>
+    <link>http://open-talk.ch/tags/instagram/</link>
+    <description>Recent content in Instagram on Open Talk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Wed, 15 May 2019 15:38:30 +0200</lastBuildDate>
+    
+	<atom:link href="http://open-talk.ch/tags/instagram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>«Es ist genauso wichtig, dass man die Leute auch offline involviert.»</title>
+      <link>http://open-talk.ch/interview/andymeetswarhol/</link>
+      <pubDate>Wed, 15 May 2019 15:38:30 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/interview/andymeetswarhol/</guid>
+      <description>&lt;p&gt;Als Blogger und Kunst-Influencer arbeitet Andy Hermann eng mit Kunstmuseen zusammen, um neue Ausstellungen auf seinem Blog
+&lt;span class=&#34;nowrap&#34;&gt;&lt;a href=&#34;https://andymeetswarhol.ch/&#34;&gt;AndyMeetsWarhol&lt;/a&gt;&lt;/span&gt; und auf seinen Social-Media-Kanälen anzupreisen. Kollaborationen, die beiden Seiten zu Gute kommen: Kunstmuseen können seine Plattform zum Werben nutzen und Andy Hermann kann seine Position als Kunstblogger festigen. Im Gespräch erzählt er, wie Kunst online zu Entertainment werden kann und wie man im digitalen Zeitalter von Kunst lebt, ohne Künstler zu sein.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

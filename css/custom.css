@@ -1,15 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 p {
   text-align: justify;
   hyphens: auto;
 }
 
 header h1.f1 {
-  font-family: 'avenir next', avenir, sans-serif;
+  font-family: 'avenir next', 'avenir', 'Lato', sans-serif;
 
 }
 
 section h1 {
-  font-family: 'avenir next', avenir, sans-serif;
+  font-family: 'avenir next', 'avenir', 'Lato', sans-serif;
   font-weight: bold;
   font-size: inherit;
   margin-top: 2em;
@@ -102,6 +104,15 @@ blockquote {
 
 .dropdown li {
   margin: .5em auto;
+}
+
+.tipp {
+  border: #ff007f solid;
+  padding: 1em;
+}
+
+.tipp p {
+  margin: 0;
 }
 
 .tags {

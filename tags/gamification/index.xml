@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gamification on Open Talk</title>
+    <link>http://open-talk.ch/tags/gamification/</link>
+    <description>Recent content in Gamification on Open Talk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Wed, 15 May 2019 15:42:07 +0200</lastBuildDate>
+    
+	<atom:link href="http://open-talk.ch/tags/gamification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>«Wir wollen Museen als Orte von Menschen für Menschen erlebbar machen»</title>
+      <link>http://open-talk.ch/interview/artsnext/</link>
+      <pubDate>Wed, 15 May 2019 15:42:07 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/interview/artsnext/</guid>
+      <description>&lt;p&gt;Das Kultur-Start-Up &lt;a href=&#34;https://www.artsnext.ch/home.html&#34;&gt;artsnext&lt;/a&gt; aus Zürich, organisierte letztes Jahr für junge Leute innovative Kunstevents in Museen – mit grossem Erfolg. Sandra Bickel und Andreas Geis von artsnext erzählen im Gespräch, wie sie Kommunikationslücken zwischen den Besuchern und Museen schliessen wollen und welche kleinen Veränderungen Museen vornehmen können um ein neues Publikum zu erreichen – digital sowie vor Ort.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

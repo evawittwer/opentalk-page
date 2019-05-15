@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kunst on Open Talk</title>
+    <link>http://open-talk.ch/tags/kunst/</link>
+    <description>Recent content in Kunst on Open Talk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Wed, 15 May 2019 15:44:44 +0200</lastBuildDate>
+    
+	<atom:link href="http://open-talk.ch/tags/kunst/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>«Durch Social Media können wir über die Bildsprache konstruktiv-konkrete Kunst einem breiten Publikum zugänglich machen»</title>
+      <link>http://open-talk.ch/interview/museum-haus-konstruktiv/</link>
+      <pubDate>Wed, 15 May 2019 15:44:44 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/interview/museum-haus-konstruktiv/</guid>
+      <description>&lt;p&gt;Viele Kunstinstitutionen verfügen nur über beschränkte Ressourcen für die Kommunikation, was dazu führen kann, dass dem digitalen Bereich nur wenig Budget zugeteilt wird. Flurina Ribi, die Leiterin der Presse-, Marketing- und Öffentlichkeitsarbeit im &lt;a href=&#34;https://www.hauskonstruktiv.ch/&#34;&gt;Museum Haus Konstruktiv&lt;/a&gt; erzählt im Gespräch, wie man trotz kleinem Budget und wenig Personal einen erfolgreichen Webauftritt auf Social Media erzielen kann und was die letzte Gruppenausstellung «Konkrete Gegenwart» dazu beitragen konnte.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>«Die Digitalisierung führt dazu, dass anders über Kultur nachgedacht wird»</title>
+      <link>http://open-talk.ch/interview/stadt-z%C3%BCrich-kultur/</link>
+      <pubDate>Wed, 15 May 2019 15:40:48 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/interview/stadt-z%C3%BCrich-kultur/</guid>
+      <description>&lt;p&gt;Die Digitalisierung wird von der &lt;a href=&#34;https://www.stadt-zuerich.ch/kultur/de/index.html&#34;&gt;Kulturabteilung der Stadt Zürich&lt;/a&gt; im Leitbild als ein Megatrend identifiziert – was bedeutet das für die städtische Kulturförderung? Barbara Basting, die Ressortleiterin der Bildenden Kunst, gibt Auskunft darüber, inwiefern die Digitalisierung die Zürcher Kunstinstitutionen auf Trab hält und warum die Kulturabteilung keine eigenen Social-Media-Kanäle betreut.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

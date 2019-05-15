@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storytelling on Open Talk</title>
+    <link>http://open-talk.ch/tags/storytelling/</link>
+    <description>Recent content in Storytelling on Open Talk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Wed, 15 May 2019 15:43:38 +0200</lastBuildDate>
+    
+	<atom:link href="http://open-talk.ch/tags/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>«Museen gehören zu den vertrauenswürdigsten Institutionen, die wir heute haben»</title>
+      <link>http://open-talk.ch/interview/audience&#43;-und-audience&#43;story/</link>
+      <pubDate>Wed, 15 May 2019 15:43:38 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/interview/audience&#43;-und-audience&#43;story/</guid>
+      <description>&lt;p&gt;Wie kann Social Media klassische Museumskommunikation ergänzen und wie geht man mit neuen Trends im Museumskontext um? Im Gespräch veranschaulicht Prof. Dr. Axel Vogelsang, Autor von &lt;a href=&#34;https://blog.hslu.ch/audienceplus/&#34;&gt;zwei wegweisenden Publikationen&lt;/a&gt; im Bereich Social Media in Museen, Lösungen zu allgegenwärtigen Problemen der digitalen Museumskommunikation anhand von erfolgreichen, angewandten Beispielen aus der Praxis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>«Wir wollen Museen als Orte von Menschen für Menschen erlebbar machen»</title>
+      <link>http://open-talk.ch/interview/artsnext/</link>
+      <pubDate>Wed, 15 May 2019 15:42:07 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/interview/artsnext/</guid>
+      <description>&lt;p&gt;Das Kultur-Start-Up &lt;a href=&#34;https://www.artsnext.ch/home.html&#34;&gt;artsnext&lt;/a&gt; aus Zürich, organisierte letztes Jahr für junge Leute innovative Kunstevents in Museen – mit grossem Erfolg. Sandra Bickel und Andreas Geis von artsnext erzählen im Gespräch, wie sie Kommunikationslücken zwischen den Besuchern und Museen schliessen wollen und welche kleinen Veränderungen Museen vornehmen können um ein neues Publikum zu erreichen – digital sowie vor Ort.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

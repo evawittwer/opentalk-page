@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event on Open Talk</title>
+    <link>http://open-talk.ch/tags/event/</link>
+    <description>Recent content in Event on Open Talk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Wed, 15 May 2019 15:43:06 +0200</lastBuildDate>
+    
+	<atom:link href="http://open-talk.ch/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>«Der Mensch will sich in einem möglichst spannenden Umfeld zeigen»</title>
+      <link>http://open-talk.ch/interview/verein-z%C3%BCrcher-museen/</link>
+      <pubDate>Wed, 15 May 2019 15:43:06 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/interview/verein-z%C3%BCrcher-museen/</guid>
+      <description>&lt;p&gt;Der &lt;a href=&#34;https://www.museen-zuerich.ch/about/verein-zurcher-museen&#34;&gt;Verein Zürcher Museen&lt;/a&gt; (VZM) setzt sich für alle möglichen Anliegen der Museen in Zürich und deren Besucherinnen ein und mit neuen Marketing- und Kommunikationstrends auseinander. Was die Geschäftsstelle davon implementiert, entscheidet Nicole Mayer, die Geschäftsführerin des VZM. Im Gespräch erzählt sie von den Herausforderungen, Kommunikation und Organisation des Grossevents &lt;a href=&#34;https://langenacht.ch/&#34;&gt;«Lange Nacht»&lt;/a&gt; – Zürichs Museumsnacht – zu koordinieren und wie Social Media dabei helfen kann, auch kleinere Museen ins digitale Rampenlicht zu rücken.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

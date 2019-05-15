@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kunstmuseum on Open Talk</title>
+    <link>http://open-talk.ch/tags/kunstmuseum/</link>
+    <description>Recent content in Kunstmuseum on Open Talk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Wed, 15 May 2019 15:18:23 +0200</lastBuildDate>
+    
+	<atom:link href="http://open-talk.ch/tags/kunstmuseum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>«Durch Social Media kann man die Schwellenangst überwinden»</title>
+      <link>http://open-talk.ch/interview/kunsthalle-z%C3%BCrich/</link>
+      <pubDate>Wed, 15 May 2019 15:18:23 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/interview/kunsthalle-z%C3%BCrich/</guid>
+      <description>&lt;p&gt;In der &lt;a href=&#34;http://kunsthallezurich.ch/de&#34;&gt;Kunsthalle Zürich&lt;/a&gt; wird Social Media kollaborativ gestaltet. Michelle Akanji – die Leiterin von Kommunikation, Presse und Events – erklärt, welche Vorteile eine solche Zusammenarbeit bringt und wie digitale Medien, Blogs und Social Media nicht nur Verbundenheit zwischen den Besucherinnen und dem Museum schaffen, sondern auch den Ausstellungsraum digital erweitern können.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

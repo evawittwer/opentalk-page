@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Open Talk</title>
+    <link>http://open-talk.ch/tags/</link>
+    <description>Recent content in Tags on Open Talk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ch</language>
+    <lastBuildDate>Wed, 15 May 2019 15:43:38 +0200</lastBuildDate>
+    
+	<atom:link href="http://open-talk.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://open-talk.ch/tags/blog/</link>
+      <pubDate>Wed, 15 May 2019 15:43:38 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitalisierung</title>
+      <link>http://open-talk.ch/tags/digitalisierung/</link>
+      <pubDate>Wed, 15 May 2019 15:44:44 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/digitalisierung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event</title>
+      <link>http://open-talk.ch/tags/event/</link>
+      <pubDate>Wed, 15 May 2019 15:43:06 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gamification</title>
+      <link>http://open-talk.ch/tags/gamification/</link>
+      <pubDate>Wed, 15 May 2019 15:42:07 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/gamification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instagram</title>
+      <link>http://open-talk.ch/tags/instagram/</link>
+      <pubDate>Wed, 15 May 2019 15:38:30 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kunst</title>
+      <link>http://open-talk.ch/tags/kunst/</link>
+      <pubDate>Wed, 15 May 2019 15:44:44 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/kunst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kunstmuseum</title>
+      <link>http://open-talk.ch/tags/kunstmuseum/</link>
+      <pubDate>Wed, 15 May 2019 15:18:23 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/kunstmuseum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>http://open-talk.ch/tags/social-media/</link>
+      <pubDate>Wed, 15 May 2019 15:44:44 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storytelling</title>
+      <link>http://open-talk.ch/tags/storytelling/</link>
+      <pubDate>Wed, 15 May 2019 15:43:38 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/storytelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>http://open-talk.ch/tags/website/</link>
+      <pubDate>Wed, 15 May 2019 15:43:38 +0200</pubDate>
+      
+      <guid>http://open-talk.ch/tags/website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
